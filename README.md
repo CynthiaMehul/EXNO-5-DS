@@ -162,10 +162,17 @@ Pie Chart
 Therefore, various graphs are plotted to perform data visualization using matplot library in python successfully.
 
 Line Graphs: These are commonly used for data that involves time (time series datasets). It is used for continous data.
+
 MultiLine Graphs: These are also used for continous data when there are two or more features to compare.
+
 Area Graph: This is similar to line graph but the area between the axes and the line drawn is filled with color. This makes the graph more visually appealing. 
+
 Spline Graph: This is similar to line graph but the lines between the data points are smoothly connected. This enables us to extract output at every input point.
+
 Bar Graph: This is important when comparing a numerical value with a categorical value. It shows simple idea about them.
+
 Stacked Bar Graph: This is used when two or more features must be compared.
+
 Scatter Plot: This simply plots points between two or more features.
+
 Pie Chart: This shows the proportion of each feature involved in a circular graph. It can be used when the difference between each feature is high.
