@@ -18,6 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Program:
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -120,7 +121,7 @@ colors = ['r', 'y', 'g', 'b']
 plt.pie(slices, labels=activities, colors=colors, autopct='%1.1f%%')
 plt.title("Daily Activities Pie Chart")
 plt.show()
-
+```
 # Output:
 Line Graph
 
